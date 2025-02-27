@@ -1,7 +1,17 @@
 {
-    "name": "NFT #1",
-    "description": "Description",
-    "image": "https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.webp",
+    "type": "Basic NFT",
+    "name": "PLANET",
+    "description": "Description of NFT #1",
+    "preview": {
+        "source": "https://example.com/images/1.png",
+        "mimetype": "image/png"
+    },
+    "files": [
+        {
+            "source": "https://example.com/images/1.png",
+            "mimetype": "image/png"
+        }
+    ],
     "attributes": [
         {
             "trait_type": "Background",
