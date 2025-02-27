@@ -1,21 +1,5 @@
 {
-    "type": "Basic NFT",
-    "name": "PLANET",
-    "description": "Description of NFT #1",
-    "preview": {
-        "source": "https://example.com/images/1.png",
-        "mimetype": "image/png"
-    },
-    "files": [
-        {
-            "source": "https://example.com/images/1.png",
-            "mimetype": "image/png"
-        }
-    ],
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Blue"
-        }
-    ]
+    "image": "https://example.com/images/1.png",
+    "name": "planet",
+    "description": "Description of NFT #1"
 }
