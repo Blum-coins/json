@@ -1,0 +1,11 @@
+{
+    "name": "NFT #1",
+    "description": "Description",
+    "image": "https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.webp",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        }
+    ]
+}
